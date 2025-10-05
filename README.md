@@ -37,7 +37,7 @@
   <!-- Connect with Me Section -->
   <h2 style="color: #2E8FF7; font-size: 2.5rem; margin-bottom: 20px;">Connect with Me</h2>
   <p>
-    <a href="www.linkedin.com/in/nivedk1234/" style="text-decoration: none;">
+    <a href="https://www.linkedin.com/in/nivedk1234/" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
   </p>
